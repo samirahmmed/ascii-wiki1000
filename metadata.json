@@ -1,0 +1,6 @@
+{
+  "name": "ASCII Wiki",
+  "description": "Discover an infinite world of words and art. Powered by Gemini, this encyclopedia generates instant definitions and captivating ASCII art for any topic. Every word opens a new door to knowledge, leading you on a journey of endless exploration.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
