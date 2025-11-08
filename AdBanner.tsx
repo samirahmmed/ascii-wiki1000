@@ -16,7 +16,7 @@ const AdBanner: React.FC = () => {
           
           // IMPORTANT: Replace with your own Ad Unit ID from your AdMob account.
           // For testing, use the sample ID provided by Google: ca-app-pub-3940256099942544/6300978111
-          const adId = 'ca-app-pub-3940256099942544/6300978111';
+          const adId = 'ca-app-pub-1352679620358374/7288031910';
 
           const options = {
             adId: adId,
